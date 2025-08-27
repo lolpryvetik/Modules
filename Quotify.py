@@ -72,7 +72,7 @@ class QuotifyMod(loader.Module):
             ),
             loader.ConfigValue(
                 "show_reply",
-                True,
+                False,
                 lambda: self.strings("cfg_show_reply"),
                 validator=loader.validators.Boolean(),
             ),
