@@ -1,5 +1,5 @@
 # ©️ LoLpryvet, 2025
-# 🌐 https://github.com/lolpryvetik/AvatarManager
+# 🌐 https://github.com/lolpryvetik/Modules/blob/main/Quotify.py
 # Licensed under GNU AGPL v3.0
 # 
 # This program is free software: you can redistribute it and/or modify
